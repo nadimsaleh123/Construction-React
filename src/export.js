@@ -56,29 +56,30 @@ export const allservices = [
 export const planning = [
   {
     icon: IoDocumentTextSharp,
-    title: "planning",
+    title: "Planning",
     about:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida cursus",
+      "Detailed research and strategizing to establish project goals, requirements, and timelines for a successful outcome.",
   },
   {
     icon: MdOutlineDesignServices,
-    title: "design",
+    title: "Design",
     about:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida cursus",
+      "Crafting user-centered designs, wireframes, and mockups to create a visually appealing and functional interface.",
   },
   {
     icon: FaRegBuilding,
-    title: "building",
+    title: "Building",
     about:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida cursus",
+      "Developing the core functionalities and implementing features with clean, efficient code to bring the design to life.",
   },
   {
     icon: FaSitemap,
-    title: "finish",
+    title: "Finish",
     about:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida cursus",
+      "Thorough testing, debugging, and deployment to ensure the project meets all specifications and functions seamlessly.",
   },
 ];
+
 
 export const clients = [
   {
