@@ -17,41 +17,42 @@ import client3 from "../src/assets/client3.png";
 export const allservices = [
   {
     icon: building,
-    title: "BUILDING RENOVATION",
+    title: "Building Renovation",
     about:
-      "Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Expert renovation services to upgrade and modernize existing structures, enhancing functionality and aesthetic appeal.",
   },
   {
     icon: construction,
-    title: "CONSTRUCTION SERVICES",
+    title: "Construction Services",
     about:
-      "Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Comprehensive construction solutions, from project planning to execution, ensuring high-quality and timely completion.",
   },
   {
     icon: design,
-    title: "DESIGN & PLANNING",
+    title: "Design & Planning",
     about:
-      "Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Professional design and planning services to create efficient and innovative spaces tailored to client needs.",
   },
   {
     icon: document,
-    title: "DOCUMENTATION",
+    title: "Documentation",
     about:
-      "Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Detailed documentation for all project stages, providing clear records and ensuring compliance with industry standards.",
   },
   {
     icon: paint,
-    title: "INTERIOR DESIGN",
+    title: "Interior Design",
     about:
-      "Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Creative interior design services to craft comfortable and visually stunning spaces that reflect individual style.",
   },
   {
     icon: support,
-    title: "CUSTOMER SUPPORT",
+    title: "Customer Support",
     about:
-      "Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Dedicated customer support to assist with inquiries, provide updates, and ensure a smooth project experience from start to finish.",
   },
 ];
+
 
 export const planning = [
   {
@@ -86,21 +87,22 @@ export const clients = [
     image: client1,
     name: "Alex Parker",
     about:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida cursus",
+      "An experienced constructor known for meticulous planning and project management, ensuring every construction project meets quality standards and deadlines.",
     post: "Constructor",
   },
   {
     image: client2,
     name: "Drew James",
     about:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida cursus",
+      "A visionary architect who blends modern design with sustainable practices to create innovative, environmentally friendly buildings.",
     post: "Architect",
   },
   {
     image: client3,
     name: "Sam Peterson",
     about:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida cursus",
+      "A skilled builder with a strong focus on craftsmanship and attention to detail, dedicated to bringing architectural designs to life with precision.",
     post: "Builder",
   },
 ];
+
