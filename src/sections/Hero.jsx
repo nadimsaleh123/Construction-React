@@ -2,7 +2,6 @@ import React from 'react';
 import heroimg from '../assets/heroimg.png'
 import backgroundImg from '../assets/homeimg.webp'
 import {motion} from 'framer-motion'
-
 import { slideUpVariants , zoomInVariants } from './animation';
 
 
@@ -26,7 +25,7 @@ const Hero = () => {
                 className='text-white uppercase text-[50px] font-bold'
             >we will build your dream </motion.h1>
             <div className='w-[120px] h-[6px] bg-yellow-500'></div>
-            <p className='text-white text-[20px]'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores odio quod rem neque? Nobis totam exercitationem, cumque sunt veritatis impedit a, laborum magni aperiam adipisci molestias ad soluta sint recusandae.</p>
+            <p className='text-white text-[20px]'>Whether you’re dreaming of a new structure or enhancing an existing space, Sumon Structures is here to make it happen. With unmatched expertise and dedication, we ensure a smooth building experience from start to finish.</p>
 
             <motion.div
                 initial="hidden"
